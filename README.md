@@ -1,2 +1,6 @@
 # Capstone_DATA606
 Group Project
+## Team Members
+1. KRISHNA SIDHVI NEKKANTI
+2. KEERTHI SUMANTH MEKA
+3. KARTHIK PERI
